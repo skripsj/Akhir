@@ -1,7 +1,9 @@
 # Akhir
 Tugas akhir
 
-Wajib Menginstall Library Sastrawi
+Wajib Menginstall Library:
+  - Sastrawi
+  - sklearn
 
 Urutan Proses:
 1. preprocessing.py
